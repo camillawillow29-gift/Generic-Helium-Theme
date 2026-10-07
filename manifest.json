@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Catppuccin-Ish",
+  "theme": {
+    "colors": {
+      "frame": [19, 20, 23],
+      "frame_inactive": [25, 26, 30],
+      "toolbar": [19, 20, 23],
+      "toolbar_button_icon": [210, 215, 245],
+      "tab_background_text": [75, 80, 87],
+      "tab_text": [218, 225, 245],
+      "bookmark_text": [233, 245, 255],
+      "omnibox_background": [16, 19, 20],
+      "omnibox_text": [255, 255, 255],
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [255, 255, 255]
+    }
+  }
+}
