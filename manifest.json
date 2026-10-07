@@ -1,17 +1,17 @@
 {
   "manifest_version": 3,
   "version": "1.0",
-  "name": "Catppuccin-Ish",
+  "name": "Default (Darker)",
   "theme": {
     "colors": {
-      "frame": [19, 20, 23],
-      "frame_inactive": [25, 26, 30],
-      "toolbar": [19, 20, 23],
-      "toolbar_button_icon": [210, 215, 245],
-      "tab_background_text": [75, 80, 87],
-      "tab_text": [218, 225, 245],
-      "bookmark_text": [233, 245, 255],
-      "omnibox_background": [16, 19, 20],
+      "frame": [25, 25, 25],
+      "frame_inactive": [20, 20, 20],
+      "toolbar": [17, 17, 17],
+      "toolbar_button_icon": [140, 140, 140],
+      "tab_background_text": [150, 150, 150],
+      "tab_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "omnibox_background": [34, 34, 34],
       "omnibox_text": [255, 255, 255],
       "ntp_background": [0, 0, 0],
       "ntp_text": [255, 255, 255]
